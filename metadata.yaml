@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   translator:
     agent_name: Malmberg, Aino
-    birthdate: &id001 1865
+    birthdate: 1865
     deathdate: 1933
     gutenberg_agent_id: '5957'
     url: http://www.gutenberg.org/2009/agents/5957
@@ -16,12 +16,14 @@ creator:
     aliases:
     - Kipling, Joseph Rudyard
     - Kipling, R. (Rudyard)
-    birthdate: *id001
+    birthdate: 1865
     deathdate: 1936
     gutenberg_agent_id: '132'
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44793#Kertomuksia-Intian-yl-ng-ilt--ja-laaksoista
 gutenberg_issued: '2014-01-29'
 gutenberg_type: Text
 identifiers:
