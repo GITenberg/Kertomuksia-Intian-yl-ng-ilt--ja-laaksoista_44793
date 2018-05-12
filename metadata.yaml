@@ -1,0 +1,42 @@
+_repo: Kertomuksia-Intian-yl-ng-ilt--ja-laaksoista_44793
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Malmberg, Aino
+    birthdate: &id001 1865
+    deathdate: 1933
+    gutenberg_agent_id: '5957'
+    url: http://www.gutenberg.org/2009/agents/5957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: *id001
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2014-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44793'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcc 'PR'
+tableOfContents: Ilman kirkon siunausta -- Hänen oma aviovaimonsa -- Yli rajain --
+  Dungaran tuomio -- Lispeth -- Wee Willie Winkie -- Aurelianus Mc Gogginin kääntyminen
+  -- Mennyttä kalua -- Amorin nuolet -- Kahden kauppa — kolmannen korvapuusti -- Kuinka
+  Pluffles pelastui -- Erehdys -- Suddhoon talossa -- Toinen mies -- Venus Annodomini.
+title: Kertomuksia Intian ylängöiltä ja laaksoista
+url: http://www.gutenberg.org/ebooks/44793
